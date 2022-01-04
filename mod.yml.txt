@@ -1,0 +1,11 @@
+title: Keyblade Starlight V3 over Star Seeker
+originalAuthor: K3Dvrk05
+description: Custom Starlight V3 Keyblade 3D Model Over Star Seeker
+ - name: obj/W_EX010_30.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX010_30.mdlx
+ - name: obj/W_EX010_30.a.fm
+   method: copy
+   source:
+     - name: obj/W_EX010_30.a.fm
